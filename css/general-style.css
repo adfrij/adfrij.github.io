@@ -1,3 +1,13 @@
+/* --smoky-black: #121113ff;
+// --red: #ff0000ff;
+// --maximum-yellow-red: #fcbf49ff;
+// --davys-grey: #47494aff;
+// --ivory: #fffff2ff; */
+
+body {
+    background-color: #121113ff;
+    color: #fcbf49ff;
+}
 
 h1 {
     font-family: 'Bebas Neue', cursive;
